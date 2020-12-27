@@ -1,0 +1,16 @@
+D:\Projetos\listas-genericas\classes\bin\Debug\net5.0\classes.exe
+D:\Projetos\listas-genericas\classes\bin\Debug\net5.0\classes.deps.json
+D:\Projetos\listas-genericas\classes\bin\Debug\net5.0\classes.runtimeconfig.json
+D:\Projetos\listas-genericas\classes\bin\Debug\net5.0\classes.runtimeconfig.dev.json
+D:\Projetos\listas-genericas\classes\bin\Debug\net5.0\classes.dll
+D:\Projetos\listas-genericas\classes\bin\Debug\net5.0\ref\classes.dll
+D:\Projetos\listas-genericas\classes\bin\Debug\net5.0\classes.pdb
+D:\Projetos\listas-genericas\classes\obj\Debug\net5.0\classes.csprojAssemblyReference.cache
+D:\Projetos\listas-genericas\classes\obj\Debug\net5.0\classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\listas-genericas\classes\obj\Debug\net5.0\classes.AssemblyInfoInputs.cache
+D:\Projetos\listas-genericas\classes\obj\Debug\net5.0\classes.AssemblyInfo.cs
+D:\Projetos\listas-genericas\classes\obj\Debug\net5.0\classes.csproj.CoreCompileInputs.cache
+D:\Projetos\listas-genericas\classes\obj\Debug\net5.0\classes.dll
+D:\Projetos\listas-genericas\classes\obj\Debug\net5.0\ref\classes.dll
+D:\Projetos\listas-genericas\classes\obj\Debug\net5.0\classes.pdb
+D:\Projetos\listas-genericas\classes\obj\Debug\net5.0\classes.genruntimeconfig.cache

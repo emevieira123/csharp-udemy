@@ -69,6 +69,19 @@ for(int contadorLinha = 0; contadorLinha < 10; contadorLinha++)
 }
 
 
+for(int linha = 0; linha < 5; linha++)
+        {
+            for (int coluna = 0; coluna < 5; coluna++)
+            {
+                if ( coluna > linha )
+                {
+                    break;
+                }
+                Console.Write( coluna+1 );
+            }
+            Console.WriteLine();
+        }
+
 //0.36% = 0.0036
 // valorInvestido = valorInvestido + valorInvestido * 0.0036;
 // System.Console.WriteLine("Após 1 mês, você terá R$" + valorInvestido);

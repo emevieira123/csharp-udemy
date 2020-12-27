@@ -1,0 +1,16 @@
+D:\Projetos\listas-genericas\aprendendo-csharp\bin\Debug\net5.0\aprendendo-csharp.exe
+D:\Projetos\listas-genericas\aprendendo-csharp\bin\Debug\net5.0\aprendendo-csharp.deps.json
+D:\Projetos\listas-genericas\aprendendo-csharp\bin\Debug\net5.0\aprendendo-csharp.runtimeconfig.json
+D:\Projetos\listas-genericas\aprendendo-csharp\bin\Debug\net5.0\aprendendo-csharp.runtimeconfig.dev.json
+D:\Projetos\listas-genericas\aprendendo-csharp\bin\Debug\net5.0\aprendendo-csharp.dll
+D:\Projetos\listas-genericas\aprendendo-csharp\bin\Debug\net5.0\ref\aprendendo-csharp.dll
+D:\Projetos\listas-genericas\aprendendo-csharp\bin\Debug\net5.0\aprendendo-csharp.pdb
+D:\Projetos\listas-genericas\aprendendo-csharp\obj\Debug\net5.0\aprendendo-csharp.csprojAssemblyReference.cache
+D:\Projetos\listas-genericas\aprendendo-csharp\obj\Debug\net5.0\aprendendo-csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\listas-genericas\aprendendo-csharp\obj\Debug\net5.0\aprendendo-csharp.AssemblyInfoInputs.cache
+D:\Projetos\listas-genericas\aprendendo-csharp\obj\Debug\net5.0\aprendendo-csharp.AssemblyInfo.cs
+D:\Projetos\listas-genericas\aprendendo-csharp\obj\Debug\net5.0\aprendendo-csharp.csproj.CoreCompileInputs.cache
+D:\Projetos\listas-genericas\aprendendo-csharp\obj\Debug\net5.0\aprendendo-csharp.dll
+D:\Projetos\listas-genericas\aprendendo-csharp\obj\Debug\net5.0\ref\aprendendo-csharp.dll
+D:\Projetos\listas-genericas\aprendendo-csharp\obj\Debug\net5.0\aprendendo-csharp.pdb
+D:\Projetos\listas-genericas\aprendendo-csharp\obj\Debug\net5.0\aprendendo-csharp.genruntimeconfig.cache

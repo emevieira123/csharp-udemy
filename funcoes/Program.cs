@@ -19,6 +19,18 @@ namespace funcoes
 
             contaDoBruno.Depositar(500);
             System.Console.WriteLine(contaDoBruno.saldo);
+
+            ContaCorrente contaDaGabriela = new ContaCorrente();
+
+            contaDaGabriela.titular = "Gabriela";
+
+            System.Console.WriteLine("Saldo do Bruno: " + contaDoBruno.saldo);
+            System.Console.WriteLine("Saldo da Gabriela: " + contaDaGabriela.saldo);
+
+            bool resultadoTransferencia = contaDoBruno.Transferir(200, contaDaGabriela);
+            System.Console.WriteLine("Saldo do Bruno: " + contaDoBruno.saldo);
+            System.Console.WriteLine("Saldo da Gabriela: " + contaDaGabriela.saldo);
+            System.Console.WriteLine("Resultado da Transferencia: " + resultadoTransferencia);
         }
     }
 }

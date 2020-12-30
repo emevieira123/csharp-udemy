@@ -1,0 +1,16 @@
+D:\Projetos\listas-genericas\funcoes\bin\Debug\net5.0\funcoes.exe
+D:\Projetos\listas-genericas\funcoes\bin\Debug\net5.0\funcoes.deps.json
+D:\Projetos\listas-genericas\funcoes\bin\Debug\net5.0\funcoes.runtimeconfig.json
+D:\Projetos\listas-genericas\funcoes\bin\Debug\net5.0\funcoes.runtimeconfig.dev.json
+D:\Projetos\listas-genericas\funcoes\bin\Debug\net5.0\funcoes.dll
+D:\Projetos\listas-genericas\funcoes\bin\Debug\net5.0\ref\funcoes.dll
+D:\Projetos\listas-genericas\funcoes\bin\Debug\net5.0\funcoes.pdb
+D:\Projetos\listas-genericas\funcoes\obj\Debug\net5.0\funcoes.csprojAssemblyReference.cache
+D:\Projetos\listas-genericas\funcoes\obj\Debug\net5.0\funcoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\listas-genericas\funcoes\obj\Debug\net5.0\funcoes.AssemblyInfoInputs.cache
+D:\Projetos\listas-genericas\funcoes\obj\Debug\net5.0\funcoes.AssemblyInfo.cs
+D:\Projetos\listas-genericas\funcoes\obj\Debug\net5.0\funcoes.csproj.CoreCompileInputs.cache
+D:\Projetos\listas-genericas\funcoes\obj\Debug\net5.0\funcoes.dll
+D:\Projetos\listas-genericas\funcoes\obj\Debug\net5.0\ref\funcoes.dll
+D:\Projetos\listas-genericas\funcoes\obj\Debug\net5.0\funcoes.pdb
+D:\Projetos\listas-genericas\funcoes\obj\Debug\net5.0\funcoes.genruntimeconfig.cache

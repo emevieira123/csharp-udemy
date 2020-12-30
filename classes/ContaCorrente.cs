@@ -12,9 +12,3 @@ namespace classes
         public double saldo;
     }
 }
-
-
-
-
-
-

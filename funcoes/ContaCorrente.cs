@@ -4,9 +4,16 @@ using System.Threading.Tasks;
 
 namespace funcoes
 {
+    public class Cliente
+    {
+        public string nome;
+        public string cpf;
+        public string profissao;
+    }
+
     public class ContaCorrente
     {
-        public string titular;
+        public Cliente titular;
         public int agencia;
         public int numero;
         public double saldo = 100;

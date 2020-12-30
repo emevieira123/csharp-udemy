@@ -36,21 +36,29 @@ namespace funcoes
             // System.Console.WriteLine("Saldo da Gabriela: " + contaDaGabriela.saldo);
             // System.Console.WriteLine("Resultado da Transferencia: " + resultadoTransferencia);
 
-            Cliente gabriela = new Cliente();
+           // Cliente gabriela = new Cliente();
 
-            gabriela.nome = "Gabriela";
-            gabriela.profissao = "Dev C#";
-            gabriela.cpf = "452.751.723.18";
+            // gabriela.nome = "Gabriela";
+            // gabriela.profissao = "Dev C#";
+            // gabriela.cpf = "452.751.723.18";
 
             ContaCorrente conta = new ContaCorrente();
 
-            conta.titular = gabriela;
+            // conta.titular = gabriela;
+            // conta.titular = new Cliente();
+            // conta.titular.nome = "Gabriela Costa";
+            // conta.titular.profissao = "Dev C#";
+            // conta.titular.cpf = "452.751.723.18";
+
             conta.saldo = 500;
             conta.agencia = 563;
             conta.numero = 5634527;
 
-            System.Console.WriteLine(gabriela.nome);
-            System.Console.WriteLine(conta.titular.nome);
+            // System.Console.WriteLine(gabriela.nome);
+            // System.Console.WriteLine(conta.titular.nome);
+            // System.Console.WriteLine(conta.titular.cpf);
+            // System.Console.WriteLine(conta.titular.profissao);
+
 
         }
     }

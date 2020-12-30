@@ -20,13 +20,29 @@ namespace classes
             // System.Console.WriteLine(contaDaGabriela.numero);
             // System.Console.WriteLine(contaDaGabriela.saldo);
 
-            ContaCorrente conta = new ContaCorrente();
+            ContaCorrente contaDaGabriela = new ContaCorrente();
+            contaDaGabriela.titular = "Gabriela";
+            contaDaGabriela.agencia = 863;
+            contaDaGabriela.numero = 863452;
 
-            conta.titular = "Gabriela";
+            ContaCorrente contaDaGabrielaCosta = new ContaCorrente();
+            contaDaGabrielaCosta.titular = "Gabriela";
+            contaDaGabrielaCosta.agencia = 863;
+            contaDaGabrielaCosta.numero = 863452;
 
-            System.Console.WriteLine(conta.titular);
-            System.Console.WriteLine(conta.saldo);
+            System.Console.WriteLine("Igualdade de tipo de referência: " + (contaDaGabriela == contaDaGabrielaCosta)); 
 
+            int idade = 27;
+            int idadeMaisUmaVez = 27;
+            System.Console.WriteLine("Igualdade de tipo de valor: " + (idade == idadeMaisUmaVez));       
+
+            contaDaGabriela = contaDaGabrielaCosta;
+            System.Console.WriteLine(contaDaGabriela == contaDaGabrielaCosta);
+
+            contaDaGabriela.saldo = 300;
+            System.Console.WriteLine(contaDaGabriela.saldo);
+            System.Console.WriteLine(contaDaGabrielaCosta.saldo);
+            
         }
     }
 }

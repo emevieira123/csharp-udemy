@@ -40,9 +40,7 @@ namespace funcoes
 
             // gabriela.nome = "Gabriela";
             // gabriela.profissao = "Dev C#";
-            // gabriela.cpf = "452.751.723.18";
-
-            ContaCorrente conta = new ContaCorrente();
+            // gabriela.cpf = "452.751.723.18";            
 
             // conta.titular = gabriela;
             // conta.titular = new Cliente();
@@ -58,17 +56,23 @@ namespace funcoes
             // System.Console.WriteLine(conta.titular.nome);
             // System.Console.WriteLine(conta.titular.cpf);
             // System.Console.WriteLine(conta.titular.profissao);
-            Cliente cliente = new Cliente();
+            // Cliente cliente = new Cliente();
 
-            cliente.Nome = "Emerson";
-            cliente.CPF = "012.345.678-90";
-            cliente.Profissao = "Dev C#";
+            // cliente.Nome = "Emerson";
+            // cliente.CPF = "012.345.678-90";
+            // cliente.Profissao = "Dev C#";
 
-            conta.Saldo = -10;
-            conta.Titular = cliente;
+            // conta.Saldo = -10;
+            // conta.Titular = cliente;
 
-            System.Console.WriteLine(conta.Titular.Nome);
-            System.Console.WriteLine(conta.Saldo);
+            // System.Console.WriteLine(conta.Titular.Nome);
+            // System.Console.WriteLine(conta.Saldo);
+
+            ContaCorrente conta = new ContaCorrente(867, 86712540);
+
+            System.Console.WriteLine(conta.Agencia);
+            System.Console.WriteLine(conta.Numero);
+
 
 
 

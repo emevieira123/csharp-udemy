@@ -58,10 +58,18 @@ namespace funcoes
             // System.Console.WriteLine(conta.titular.nome);
             // System.Console.WriteLine(conta.titular.cpf);
             // System.Console.WriteLine(conta.titular.profissao);
+            Cliente cliente = new Cliente();
 
-            conta.DefinirSaldo(-10);
+            cliente.nome = "Emerson";
+            cliente.cpf = "012.345.678-90";
+            cliente.profissao = "Dev C#";
 
-            System.Console.WriteLine(conta.ObterSaldo());
+            conta.Saldo = -10;
+            conta.Titular = cliente;
+
+            System.Console.WriteLine(conta.Titular.nome);
+            System.Console.WriteLine(conta.Saldo);
+
 
 
         }

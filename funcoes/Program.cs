@@ -50,14 +50,18 @@ namespace funcoes
             // conta.titular.profissao = "Dev C#";
             // conta.titular.cpf = "452.751.723.18";
 
-            conta.saldo = 500;
-            conta.agencia = 563;
-            conta.numero = 5634527;
+            // conta.saldo = 500;
+            // conta.agencia = 563;
+            // conta.numero = 5634527;
 
             // System.Console.WriteLine(gabriela.nome);
             // System.Console.WriteLine(conta.titular.nome);
             // System.Console.WriteLine(conta.titular.cpf);
             // System.Console.WriteLine(conta.titular.profissao);
+
+            conta.DefinirSaldo(-10);
+
+            System.Console.WriteLine(conta.ObterSaldo());
 
 
         }

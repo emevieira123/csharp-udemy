@@ -15,6 +15,8 @@ namespace funcoes
     {
         //private Cliente _titular;
         public Cliente Titular { get; set; }
+        public static int TotalDeContasCriadas { get; private set; }
+
         
         private int _agencia;
         public int Agencia 
@@ -58,6 +60,8 @@ namespace funcoes
         {
             Agencia = agencia;
             Numero = numero;
+
+            TotalDeContasCriadas++;
         }
 
         public bool Sacar(double valor)

@@ -70,8 +70,14 @@ namespace funcoes
 
             ContaCorrente conta = new ContaCorrente(867, 86712540);
 
+            
+
             System.Console.WriteLine(conta.Agencia);
             System.Console.WriteLine(conta.Numero);
+
+            ContaCorrente contaDaGabriela = new ContaCorrente(867, 86745820);
+            
+            System.Console.WriteLine(ContaCorrente.TotalDeContasCriadas);
 
 
 

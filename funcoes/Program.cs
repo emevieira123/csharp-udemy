@@ -60,14 +60,14 @@ namespace funcoes
             // System.Console.WriteLine(conta.titular.profissao);
             Cliente cliente = new Cliente();
 
-            cliente.nome = "Emerson";
-            cliente.cpf = "012.345.678-90";
-            cliente.profissao = "Dev C#";
+            cliente.Nome = "Emerson";
+            cliente.CPF = "012.345.678-90";
+            cliente.Profissao = "Dev C#";
 
             conta.Saldo = -10;
             conta.Titular = cliente;
 
-            System.Console.WriteLine(conta.Titular.nome);
+            System.Console.WriteLine(conta.Titular.Nome);
             System.Console.WriteLine(conta.Saldo);
 
 

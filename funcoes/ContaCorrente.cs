@@ -6,20 +6,17 @@ namespace funcoes
 {
     public class Cliente
     {
-        public string nome;
-        public string cpf;
-        public string profissao;
+        public string Nome { get; set; }
+        public string CPF { get; set; }
+        public string Profissao { get; set; }
     }
 
     public class ContaCorrente
     {
-        private Cliente _titular;
-
-        public Cliente Titular
-        { get; set; }
-
-        public int agencia;
-        public int numero;
+        //private Cliente _titular;
+        public Cliente Titular { get; set; }
+        public int Agencia { get; set; }
+        public int Numero { get; set; }        
         private double _saldo = 100;
 
         public double Saldo
